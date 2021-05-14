@@ -1,3 +1,5 @@
+Projeto feito em Next.JS
+
 # Getting Started
 
 yarn server // para reproduzir os arquivos do podcast
